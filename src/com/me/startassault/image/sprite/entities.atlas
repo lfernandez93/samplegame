@@ -1,0 +1,47 @@
+
+entities.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+block
+  rotate: false
+  xy: 1, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+character1
+  rotate: false
+  xy: 1, 1
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+character4
+  rotate: false
+  xy: 67, 67
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+character5
+  rotate: false
+  xy: 31, 1
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+character2
+  rotate: false
+  xy: 97, 67
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+character3
+  rotate: false
+  xy: 61, 1
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
